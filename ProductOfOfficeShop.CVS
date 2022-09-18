@@ -3,8 +3,8 @@ ID,type,price,discount,date
 34285,Book,105,true,2022-05-13
 34299,Book,305,false,2022-08-13
 34281,Paper A4,251,true,2022-06-05
-34282,Paper A4,252.04,true,2021-07-05
-34283,Paper A4,200.0,false,2021-08-05
+34282,Paper A4,73,true,2022-07-05
+34283,Paper A4,74,false,2020-08-05
 34950,Sticker 76x76,19.14,true,2020-09-05
 35187,Sticker 76x76,30.24,false,2020-10-05
 37894,Sticker 76x76,50.2,true,2022-11-05
